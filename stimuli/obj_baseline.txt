@@ -1,0 +1,300 @@
+The professor persuaded the lawyer to make fun of himself .
+The professor persuaded the lawyer to examine himself .
+The professor persuaded the lawyer to diagnose himself .
+The professor persuaded the lawyer to embarrass himself .
+The professor persuaded the lawyer to disguise himself .
+The professor persuaded the artist to make fun of himself .
+The professor persuaded the artist to examine himself .
+The professor persuaded the artist to diagnose himself .
+The professor persuaded the artist to embarrass himself .
+The professor persuaded the artist to disguise himself .
+The professor persuaded the student to make fun of himself .
+The professor persuaded the student to examine himself .
+The professor persuaded the student to diagnose himself .
+The professor persuaded the student to embarrass himself .
+The professor persuaded the student to disguise himself .
+The professor persuaded the child to make fun of himself .
+The professor persuaded the child to examine himself .
+The professor persuaded the child to diagnose himself .
+The professor persuaded the child to embarrass himself .
+The professor persuaded the child to disguise himself .
+The professor forced the lawyer to make fun of himself .
+The professor forced the lawyer to examine himself .
+The professor forced the lawyer to diagnose himself .
+The professor forced the lawyer to embarrass himself .
+The professor forced the lawyer to disguise himself .
+The professor forced the artist to make fun of himself .
+The professor forced the artist to examine himself .
+The professor forced the artist to diagnose himself .
+The professor forced the artist to embarrass himself .
+The professor forced the artist to disguise himself .
+The professor forced the student to make fun of himself .
+The professor forced the student to examine himself .
+The professor forced the student to diagnose himself .
+The professor forced the student to embarrass himself .
+The professor forced the student to disguise himself .
+The professor forced the child to make fun of himself .
+The professor forced the child to examine himself .
+The professor forced the child to diagnose himself .
+The professor forced the child to embarrass himself .
+The professor forced the child to disguise himself .
+The professor told the lawyer to make fun of himself .
+The professor told the lawyer to examine himself .
+The professor told the lawyer to diagnose himself .
+The professor told the lawyer to embarrass himself .
+The professor told the lawyer to disguise himself .
+The professor told the artist to make fun of himself .
+The professor told the artist to examine himself .
+The professor told the artist to diagnose himself .
+The professor told the artist to embarrass himself .
+The professor told the artist to disguise himself .
+The professor told the student to make fun of himself .
+The professor told the student to examine himself .
+The professor told the student to diagnose himself .
+The professor told the student to embarrass himself .
+The professor told the student to disguise himself .
+The professor told the child to make fun of himself .
+The professor told the child to examine himself .
+The professor told the child to diagnose himself .
+The professor told the child to embarrass himself .
+The professor told the child to disguise himself .
+The lawyer persuaded the professor to make fun of himself .
+The lawyer persuaded the professor to examine himself .
+The lawyer persuaded the professor to diagnose himself .
+The lawyer persuaded the professor to embarrass himself .
+The lawyer persuaded the professor to disguise himself .
+The lawyer persuaded the artist to make fun of himself .
+The lawyer persuaded the artist to examine himself .
+The lawyer persuaded the artist to diagnose himself .
+The lawyer persuaded the artist to embarrass himself .
+The lawyer persuaded the artist to disguise himself .
+The lawyer persuaded the student to make fun of himself .
+The lawyer persuaded the student to examine himself .
+The lawyer persuaded the student to diagnose himself .
+The lawyer persuaded the student to embarrass himself .
+The lawyer persuaded the student to disguise himself .
+The lawyer persuaded the child to make fun of himself .
+The lawyer persuaded the child to examine himself .
+The lawyer persuaded the child to diagnose himself .
+The lawyer persuaded the child to embarrass himself .
+The lawyer persuaded the child to disguise himself .
+The lawyer forced the professor to make fun of himself .
+The lawyer forced the professor to examine himself .
+The lawyer forced the professor to diagnose himself .
+The lawyer forced the professor to embarrass himself .
+The lawyer forced the professor to disguise himself .
+The lawyer forced the artist to make fun of himself .
+The lawyer forced the artist to examine himself .
+The lawyer forced the artist to diagnose himself .
+The lawyer forced the artist to embarrass himself .
+The lawyer forced the artist to disguise himself .
+The lawyer forced the student to make fun of himself .
+The lawyer forced the student to examine himself .
+The lawyer forced the student to diagnose himself .
+The lawyer forced the student to embarrass himself .
+The lawyer forced the student to disguise himself .
+The lawyer forced the child to make fun of himself .
+The lawyer forced the child to examine himself .
+The lawyer forced the child to diagnose himself .
+The lawyer forced the child to embarrass himself .
+The lawyer forced the child to disguise himself .
+The lawyer told the professor to make fun of himself .
+The lawyer told the professor to examine himself .
+The lawyer told the professor to diagnose himself .
+The lawyer told the professor to embarrass himself .
+The lawyer told the professor to disguise himself .
+The lawyer told the artist to make fun of himself .
+The lawyer told the artist to examine himself .
+The lawyer told the artist to diagnose himself .
+The lawyer told the artist to embarrass himself .
+The lawyer told the artist to disguise himself .
+The lawyer told the student to make fun of himself .
+The lawyer told the student to examine himself .
+The lawyer told the student to diagnose himself .
+The lawyer told the student to embarrass himself .
+The lawyer told the student to disguise himself .
+The lawyer told the child to make fun of himself .
+The lawyer told the child to examine himself .
+The lawyer told the child to diagnose himself .
+The lawyer told the child to embarrass himself .
+The lawyer told the child to disguise himself .
+The artist persuaded the professor to make fun of himself .
+The artist persuaded the professor to examine himself .
+The artist persuaded the professor to diagnose himself .
+The artist persuaded the professor to embarrass himself .
+The artist persuaded the professor to disguise himself .
+The artist persuaded the lawyer to make fun of himself .
+The artist persuaded the lawyer to examine himself .
+The artist persuaded the lawyer to diagnose himself .
+The artist persuaded the lawyer to embarrass himself .
+The artist persuaded the lawyer to disguise himself .
+The artist persuaded the student to make fun of himself .
+The artist persuaded the student to examine himself .
+The artist persuaded the student to diagnose himself .
+The artist persuaded the student to embarrass himself .
+The artist persuaded the student to disguise himself .
+The artist persuaded the child to make fun of himself .
+The artist persuaded the child to examine himself .
+The artist persuaded the child to diagnose himself .
+The artist persuaded the child to embarrass himself .
+The artist persuaded the child to disguise himself .
+The artist forced the professor to make fun of himself .
+The artist forced the professor to examine himself .
+The artist forced the professor to diagnose himself .
+The artist forced the professor to embarrass himself .
+The artist forced the professor to disguise himself .
+The artist forced the lawyer to make fun of himself .
+The artist forced the lawyer to examine himself .
+The artist forced the lawyer to diagnose himself .
+The artist forced the lawyer to embarrass himself .
+The artist forced the lawyer to disguise himself .
+The artist forced the student to make fun of himself .
+The artist forced the student to examine himself .
+The artist forced the student to diagnose himself .
+The artist forced the student to embarrass himself .
+The artist forced the student to disguise himself .
+The artist forced the child to make fun of himself .
+The artist forced the child to examine himself .
+The artist forced the child to diagnose himself .
+The artist forced the child to embarrass himself .
+The artist forced the child to disguise himself .
+The artist told the professor to make fun of himself .
+The artist told the professor to examine himself .
+The artist told the professor to diagnose himself .
+The artist told the professor to embarrass himself .
+The artist told the professor to disguise himself .
+The artist told the lawyer to make fun of himself .
+The artist told the lawyer to examine himself .
+The artist told the lawyer to diagnose himself .
+The artist told the lawyer to embarrass himself .
+The artist told the lawyer to disguise himself .
+The artist told the student to make fun of himself .
+The artist told the student to examine himself .
+The artist told the student to diagnose himself .
+The artist told the student to embarrass himself .
+The artist told the student to disguise himself .
+The artist told the child to make fun of himself .
+The artist told the child to examine himself .
+The artist told the child to diagnose himself .
+The artist told the child to embarrass himself .
+The artist told the child to disguise himself .
+The student persuaded the professor to make fun of himself .
+The student persuaded the professor to examine himself .
+The student persuaded the professor to diagnose himself .
+The student persuaded the professor to embarrass himself .
+The student persuaded the professor to disguise himself .
+The student persuaded the lawyer to make fun of himself .
+The student persuaded the lawyer to examine himself .
+The student persuaded the lawyer to diagnose himself .
+The student persuaded the lawyer to embarrass himself .
+The student persuaded the lawyer to disguise himself .
+The student persuaded the artist to make fun of himself .
+The student persuaded the artist to examine himself .
+The student persuaded the artist to diagnose himself .
+The student persuaded the artist to embarrass himself .
+The student persuaded the artist to disguise himself .
+The student persuaded the child to make fun of himself .
+The student persuaded the child to examine himself .
+The student persuaded the child to diagnose himself .
+The student persuaded the child to embarrass himself .
+The student persuaded the child to disguise himself .
+The student forced the professor to make fun of himself .
+The student forced the professor to examine himself .
+The student forced the professor to diagnose himself .
+The student forced the professor to embarrass himself .
+The student forced the professor to disguise himself .
+The student forced the lawyer to make fun of himself .
+The student forced the lawyer to examine himself .
+The student forced the lawyer to diagnose himself .
+The student forced the lawyer to embarrass himself .
+The student forced the lawyer to disguise himself .
+The student forced the artist to make fun of himself .
+The student forced the artist to examine himself .
+The student forced the artist to diagnose himself .
+The student forced the artist to embarrass himself .
+The student forced the artist to disguise himself .
+The student forced the child to make fun of himself .
+The student forced the child to examine himself .
+The student forced the child to diagnose himself .
+The student forced the child to embarrass himself .
+The student forced the child to disguise himself .
+The student told the professor to make fun of himself .
+The student told the professor to examine himself .
+The student told the professor to diagnose himself .
+The student told the professor to embarrass himself .
+The student told the professor to disguise himself .
+The student told the lawyer to make fun of himself .
+The student told the lawyer to examine himself .
+The student told the lawyer to diagnose himself .
+The student told the lawyer to embarrass himself .
+The student told the lawyer to disguise himself .
+The student told the artist to make fun of himself .
+The student told the artist to examine himself .
+The student told the artist to diagnose himself .
+The student told the artist to embarrass himself .
+The student told the artist to disguise himself .
+The student told the child to make fun of himself .
+The student told the child to examine himself .
+The student told the child to diagnose himself .
+The student told the child to embarrass himself .
+The student told the child to disguise himself .
+The child persuaded the professor to make fun of himself .
+The child persuaded the professor to examine himself .
+The child persuaded the professor to diagnose himself .
+The child persuaded the professor to embarrass himself .
+The child persuaded the professor to disguise himself .
+The child persuaded the lawyer to make fun of himself .
+The child persuaded the lawyer to examine himself .
+The child persuaded the lawyer to diagnose himself .
+The child persuaded the lawyer to embarrass himself .
+The child persuaded the lawyer to disguise himself .
+The child persuaded the artist to make fun of himself .
+The child persuaded the artist to examine himself .
+The child persuaded the artist to diagnose himself .
+The child persuaded the artist to embarrass himself .
+The child persuaded the artist to disguise himself .
+The child persuaded the student to make fun of himself .
+The child persuaded the student to examine himself .
+The child persuaded the student to diagnose himself .
+The child persuaded the student to embarrass himself .
+The child persuaded the student to disguise himself .
+The child forced the professor to make fun of himself .
+The child forced the professor to examine himself .
+The child forced the professor to diagnose himself .
+The child forced the professor to embarrass himself .
+The child forced the professor to disguise himself .
+The child forced the lawyer to make fun of himself .
+The child forced the lawyer to examine himself .
+The child forced the lawyer to diagnose himself .
+The child forced the lawyer to embarrass himself .
+The child forced the lawyer to disguise himself .
+The child forced the artist to make fun of himself .
+The child forced the artist to examine himself .
+The child forced the artist to diagnose himself .
+The child forced the artist to embarrass himself .
+The child forced the artist to disguise himself .
+The child forced the student to make fun of himself .
+The child forced the student to examine himself .
+The child forced the student to diagnose himself .
+The child forced the student to embarrass himself .
+The child forced the student to disguise himself .
+The child told the professor to make fun of himself .
+The child told the professor to examine himself .
+The child told the professor to diagnose himself .
+The child told the professor to embarrass himself .
+The child told the professor to disguise himself .
+The child told the lawyer to make fun of himself .
+The child told the lawyer to examine himself .
+The child told the lawyer to diagnose himself .
+The child told the lawyer to embarrass himself .
+The child told the lawyer to disguise himself .
+The child told the artist to make fun of himself .
+The child told the artist to examine himself .
+The child told the artist to diagnose himself .
+The child told the artist to embarrass himself .
+The child told the artist to disguise himself .
+The child told the student to make fun of himself .
+The child told the student to examine himself .
+The child told the student to diagnose himself .
+The child told the student to embarrass himself .
+The child told the student to disguise himself .
